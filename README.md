@@ -28,8 +28,8 @@ Fast Cash:
 Balance Enquiry:
   Display current balance in rupees.
 
-Mini‑Statement
-List the last N transactions with date‑time, type, amount, and resulting balance.
+Mini‑Statement:
+  List the last N transactions with date‑time, type, amount, and resulting balance.
 
 Scope: Built for beginners—focuses on the customer side of ATM banking. Fork it to add admin dashboards, interest calculators, or database back‑ends.
 
