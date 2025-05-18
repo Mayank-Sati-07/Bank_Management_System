@@ -10,23 +10,23 @@ A lightweight, console‑based ATM Bank Management System for learning core bank
 
 🚀 What It Does
 
-Sign Up
-Create a new customer account via an application form (name, phone, initial deposit, 4‑digit PIN).
+Sign Up:
+  Create a new customer account via an application form (name, phone, initial deposit, 4‑digit PIN).
 
-Sign In
-Secure login with account number + PIN.
+Sign In:
+  Secure login with account number + PIN.
 
-Deposit
-Credit funds; balance updates instantly and is recorded in the ledger.
+Deposit:
+  Credit funds; balance updates instantly and is recorded in the ledger.
 
-Withdrawal
-Debit a user‑specified amount with insufficient‑funds protection.
+Withdrawal:
+  Debit a user‑specified amount with insufficient‑funds protection.
 
-Fast Cash
-One‑tap withdrawals of ₹ 500 / 1 000 / 2 000 / 5 000.
+Fast Cash:
+  One‑tap withdrawals of ₹ 500 / 1 000 / 2 000 / 5 000.
 
-Balance Enquiry
-Display current balance in rupees.
+Balance Enquiry:
+  Display current balance in rupees.
 
 Mini‑Statement
 List the last N transactions with date‑time, type, amount, and resulting balance.
