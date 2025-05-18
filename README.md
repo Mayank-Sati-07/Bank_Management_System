@@ -6,10 +6,6 @@ A lightweight, console‑based ATM Bank Management System for learning core bank
 
 ✨ Key Features
 
-💡 Function
-
-🚀 What It Does
-
 Sign Up:
   Create a new customer account via an application form (name, phone, initial deposit, 4‑digit PIN).
 
